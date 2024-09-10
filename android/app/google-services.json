@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737598601144",
+    "project_id": "pdftotext-59667",
+    "storage_bucket": "pdftotext-59667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737598601144:android:b9fa4bd7e721d45a08014d",
+        "android_client_info": {
+          "package_name": "com.example.doj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsn1z6kkJ8EIIZmr-u_uhdbHTklP62PL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
